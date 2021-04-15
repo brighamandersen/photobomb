@@ -11,7 +11,7 @@
       <router-view />
     </div>
     <footer class="footer">
-      <a href="https://github.com/BYU-CS-260-Winter-2021/lab-5-photo-bomb-brighamband" ><img id="github-footer-img" src="https://pngimg.com/uploads/github/github_PNG44.png" /></a>
+      <a href="https://github.com/brighamband/photobomb" ><img id="github-footer-img" src="https://pngimg.com/uploads/github/github_PNG44.png" /></a>
     </footer>
   </div>
 </template>
