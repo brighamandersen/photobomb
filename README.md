@@ -1,5 +1,7 @@
 # Photo Bomb
 
+![home page](/screenshots/PhotoBomb - Brigham.png)
+
 In this assignment, you will build an entire web application, using Vue CLI for
 the front end and Node, Express, and Mongo on the back end.
 
