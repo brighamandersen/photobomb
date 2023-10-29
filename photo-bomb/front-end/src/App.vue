@@ -11,7 +11,11 @@
       <router-view />
     </div>
     <footer class="footer">
-      <a href="https://github.com/brighamband/photobomb" ><img id="github-footer-img" src="https://pngimg.com/uploads/github/github_PNG44.png" /></a>
+      <a href="https://github.com/brighambandersen/photobomb"
+        ><img
+          id="github-footer-img"
+          src="https://pngimg.com/uploads/github/github_PNG44.png"
+      /></a>
     </footer>
   </div>
 </template>
@@ -43,7 +47,7 @@ body {
   /* Color and alignment */
   background: #e74c3c;
   text-align: center;
-  box-shadow: 0 0 0 1em #FFF;
+  box-shadow: 0 0 0 1em #fff;
 }
 
 nav {
@@ -67,7 +71,7 @@ h2 {
 }
 
 .pure-button-primary {
-  background-color: #277E8E;
+  background-color: #277e8e;
 }
 
 .content {
