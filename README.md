@@ -1,6 +1,6 @@
 # Photo Bomb 
 
-Photos uploader, sharer, and viewer. Now deprecated since previous hosting subscription expired.
+Photos uploader, sharer, and viewer. Website is no longer being hosted but check out the code and the screenshots below for a taste of the project!
 
 ## Screenshots
 
